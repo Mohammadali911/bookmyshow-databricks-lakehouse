@@ -2,6 +2,10 @@
 
 This project implements a governed BookMyShow-like analytics platform in Databricks using a Lakeflow Spark Declarative Pipeline.
 
+## Dashboard Preview
+
+[View the BookMyShow Executive Dashboard (PDF)](bookmyshow-executive-dashboard.pdf)
+
 ## Architecture
 
 * Landing zone: [workspace.bookmyshow_landing](#schema) with raw JSON source files in [raw_feed](#volume-/Volumes/workspace/bookmyshow_landing/raw_feed)
